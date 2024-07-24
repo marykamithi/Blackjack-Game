@@ -1,1 +1,1 @@
-# Blackjack-Game built usinj HTML CSS and JavaScript
+# Blackjack-Game built using HTML CSS and JavaScript
